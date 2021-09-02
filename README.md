@@ -1,5 +1,5 @@
-### Hi, Meet here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=meet-soni5720.meet-soni5720)
+### Hi, Achint here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=TrickyJustice.TrickyJustice)
 
 ### 📫 How to reach me:
 
