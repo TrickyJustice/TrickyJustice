@@ -10,10 +10,7 @@
 <!-- <a href="https://www.instagram.com/skymeet5720/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> -->
-<a href="https://www.facebook.com/achint.soni.54">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="mailto:achint@">
+<a href="mailto:achint.s046@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -24,13 +21,9 @@
 ### 💥 Little bit about me: 
 <ul>
   <li> Ml enthusiast ❤️</li>
-  <li> Pursuing bachelors degree in Electrical Engineering from IIT Kanpur, india 🎓
-  <li> Working on Robotics, NLP, Computer Vision and Datascience projects 🔭</li>
-  <li> Know little bit of web dev 💻</li>
-  <li> Hard core anime lover 	(◕‿◕)</li>
-  <li> Enjoy good and thoughtful discussions 💯</li>
-  <li> Love sports, especially TableTennis and cricket⚽️🏻🏏</li>
-  <li> Enjoy good read 📚</li>
+  <li> Pursuing masters in Computer Science at University of Waterloo, Canada.</li>
+  <li> Completed my bachelors degree in Electrical Engineering from IIT Kanpur, india 🎓
+  <li> Working on Foundation models, NLP, Computer Vision 🔭</li>
 </ul>
 
 ### 🔧 Tools & Technologies
